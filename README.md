@@ -20,7 +20,7 @@ This project presents an executive-style retail analytics dashboard designed to 
 * **Data Architecture:** Transformed raw transactional data into an interactive visual story to support data-driven business decisions.
 
 ##  Interactive Dashboard
-👉 **[Click here to view and interact with the live dashboard on Tableau Public](https://public.tableau.com/views/Superstole/MonthlySalesTrend?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+👉 **[Click here to view and interact with the live dashboard on Tableau Public](https://public.tableau.com/views/Superstole/ExecutiveOverview2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 ###  Repository Structure
